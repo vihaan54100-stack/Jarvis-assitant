@@ -34,7 +34,8 @@ Features • Installation • Usage • Commands • Contributing
 1. Clone the Repository
 bash
 
-git clone 
+git clone https://github.com/vihaan54100-stack/Jarvis-assitant.git
+
 2. Install Dependencies
 
 Windows:
@@ -248,4 +249,5 @@ Have questions? Feel free to reach out!
 
 Made with ❤️ by [Vihaan]
 </div>
+
 
