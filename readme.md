@@ -34,9 +34,7 @@ Features • Installation • Usage • Commands • Contributing
 1. Clone the Repository
 bash
 
-git clone https://github.com/yourusername/jarvis-ai-assistant.git
-cd jarvis-ai-assistant
-
+git clone 
 2. Install Dependencies
 
 Windows:
@@ -156,7 +154,7 @@ audio = self.recognizer.listen(source, timeout=5)
 # AI model (default: llama-3.3-70b-versatile)
 model="llama-3.3-70b-versatile"
 
-🔧 Troubleshooting
+  Troubleshooting
 Microphone Not Working
 
     Verify microphone is connected and enabled
@@ -215,7 +213,7 @@ Contributions are welcome! Here's how:
     Push to the branch (git push origin feature/AmazingFeature)
     Open a Pull Request
 
-  Future Enhancements
+  Future Enhancements(ye if some helps me these come other this wont come)
 
     Send WhatsApp messages automatically
     Email integration
@@ -231,18 +229,18 @@ Contributions are welcome! Here's how:
 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-🙏 Acknowledgments
+  Acknowledgments
 
     Inspired by JARVIS from Iron Man
     Powered by Groq for lightning-fast AI
     Built with Python and love 
+    i need help with this project  as well
 
 📧 Contact
 
 Have questions? Feel free to reach out!
 
-    GitHub: @yourusername
-    Email: your.email@example.com
+    Email: vihaan54.100gmail.com
 
 <div align="center">
 
@@ -250,3 +248,4 @@ Have questions? Feel free to reach out!
 
 Made with ❤️ by [Vihaan]
 </div>
+
